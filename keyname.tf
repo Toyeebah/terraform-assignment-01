@@ -1,5 +1,5 @@
 # Defining Key Name for connection
-variable "Key_name" {
+variable "Keyname" {
   default     = "toy-kp" 
   description = "Name of AWS keypair"
 }
